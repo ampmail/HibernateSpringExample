@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e768b54c-13cc-4bb5-97f4-96a9a52b558e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hibernateSpringExample/entity/Student.java" afterPath="$PROJECT_DIR$/src/main/java/hibernateSpringExample/entity/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/StudentDAO.java" afterPath="$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/StudentDAO.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="4ec61445-29ac-46cb-a060-db1957d04ae7" name="Failed commit: Default" comment="Initial commit&#10;1&#10;" />
@@ -66,7 +68,28 @@
     <favorites_list name="HibernateSpringExample" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Student.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hibernateSpringExample/entity/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="2" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="1144">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentDAO.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/StudentDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="2" selection-start="115" selection-end="115" vertical-scroll-proportion="0.09763314" vertical-offset="0" max-vertical-offset="676">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -86,7 +109,6 @@
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/StudentHibernateDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/DAO/StudentHibernateDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/StudentHibernateDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/entity/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/Student.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/service/Main.java" />
@@ -97,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/ae.java" />
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/ae.java" />
         <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/impl/ae.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/entity/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/StudentDAO.java" />
       </list>
     </option>
   </component>
@@ -656,7 +680,7 @@
       <workItem from="1417721796905" duration="585000" />
       <workItem from="1417725099321" duration="4315000" />
       <workItem from="1417729460166" duration="2884000" />
-      <workItem from="1417732900882" duration="885000" />
+      <workItem from="1417732900882" duration="943000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;1">
       <created>1417733141576</created>
@@ -666,18 +690,22 @@
       <created>1417733301339</created>
       <updated>1417733301339</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit&#10;1&#10;">
+      <created>1417733789152</created>
+      <updated>1417733789152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8669000" />
+    <option name="totallyTimeSpent" value="8727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -691,7 +719,7 @@
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -913,19 +941,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/StudentDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="229" selection-end="229" vertical-scroll-proportion="0.32544377" vertical-offset="0" max-vertical-offset="676">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hibernateSpringExample/entity/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="0.4704142" vertical-offset="100" max-vertical-offset="1144">
+        <state line="8" column="2" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="1144">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hibernateSpringExample/dao/StudentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="115" selection-end="115" vertical-scroll-proportion="0.09763314" vertical-offset="0" max-vertical-offset="676">
+          <folding />
         </state>
       </provider>
     </entry>
