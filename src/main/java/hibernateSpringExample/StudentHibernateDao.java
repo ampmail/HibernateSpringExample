@@ -2,6 +2,8 @@ package hibernateSpringExample;
 
 import java.util.Collection;
 
+import hibernateSpringExample.dao.StudentDAO;
+import hibernateSpringExample.entity.Student;
 import org.hibernate.SessionFactory;
 import org.springframework.orm.hibernate3.HibernateTemplate;
 import org.springframework.orm.hibernate3.support.HibernateDaoSupport;
