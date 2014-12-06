@@ -4,6 +4,6 @@
         "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
-        <mapping class="hibernateSpringExample.entity.Student"/>
+        <mapping class="hibernateSpringExample.Student"/>
     </session-factory>
 </hibernate-configuration>

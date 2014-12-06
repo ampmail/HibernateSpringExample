@@ -1,7 +1,5 @@
 package hibernateSpringExample;
 
-import hibernateSpringExample.dao.StudentDAO;
-import hibernateSpringExample.entity.Student;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {
